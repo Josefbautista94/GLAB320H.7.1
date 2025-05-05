@@ -44,17 +44,9 @@ npm run dev
 
 4. Visit http://localhost:5173
 
-Folder Structure
 
-src/
-├── components/
-│   ├── Form.jsx
-│   └── MovieDisplay.jsx
-├── App.jsx
-├── main.jsx
-└── App.css
 
-Credits
+## Credits
 
 OMDB API – for movie data
 
